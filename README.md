@@ -10,8 +10,6 @@ This website was built using Express and Node.js and is dedicated to the Brazili
 
 3. **Works Page:** On the works page, you can find a selection of Ligia Fagundes Telles' literary works. Each work may include a brief description and cover image if available.
 
-4. **Photo Gallery (Bonus):** The website includes a bonus photo gallery page that displays pictures of the author and possibly some of her work-related images.
-
 **Usage:**
 
 To run this website locally, follow these steps:
